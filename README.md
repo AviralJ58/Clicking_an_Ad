@@ -1,4 +1,4 @@
-# Clicking-on-Ads
+# Clicking an Ad
 Logistic Regression Machine Learning Model
 
 Given a user and a page they are visiting, how likely they will click on a given ad.
